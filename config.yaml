@@ -1,0 +1,4 @@
+log_dir: "path/to/logs"
+archive_name: "archive.zip"
+schedule: "daily"
+
